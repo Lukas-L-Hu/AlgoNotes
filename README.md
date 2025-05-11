@@ -23,11 +23,14 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Set Environment Variables in PowerShell**
 $Env:AWS_DEFAULT_REGION="YOUR REGION"
+
 $Env:AWS_ACCESS_KEY_ID="YOUR ACCESS KEY"
+
 $Env:AWS_SECRET_ACCESS_KEY="YOUR SECRET ACCESS KEY"
+
 $Env:AWS_SESSION_TOKEN="YOU SESSION TOKEN"
 
-4. **Run Flask App**
+5. **Run Flask App**
 Run python app.py in the terminal
 
 ### Technologies Used
