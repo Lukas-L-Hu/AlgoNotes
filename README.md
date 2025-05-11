@@ -15,8 +15,8 @@ This web application allows users to upload or type competitive programming note
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Lukas-L-Hu/CP_Notes.git
-   cd CP_Notes
+   git clone https://github.com/Lukas-L-Hu/AlgoNotes.git
+   cd AlgoNotes
 
 3. **Create a Virtual Environment**
 
