@@ -13,11 +13,13 @@ This web application allows users to upload or type competitive programming note
 ### Installation
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/Lukas-L-Hu/CP_Notes.git
    cd CP_Notes
 
-2. **Create a Virtual Environment**
+3. **Create a Virtual Environment**
+
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
@@ -31,6 +33,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    $Env:AWS_SESSION_TOKEN="YOU SESSION TOKEN"
 
 5. **Run Flask App**
+
 Run python app.py in the terminal
 
 ### Technologies Used
@@ -40,6 +43,7 @@ Backend: Flask (Python)
 Cloud Services: AWS S3 (for file storage), AWS Bedrock (for text generation / topic suggestion)
 
 ### Team Members and Contributions
+
 Lukas L. Hu
 
 - Flask backend integration with AWS S3
