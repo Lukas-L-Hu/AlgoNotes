@@ -8,7 +8,6 @@ This web application allows users to upload or type competitive programming note
 - Python 3.8+
 - AWS account with Bedrock access
 - S3 bucket setup with appropriate permissions
-- Git
 
 ### Installation
 
