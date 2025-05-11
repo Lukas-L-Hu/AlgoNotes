@@ -20,8 +20,8 @@ This web application allows users to upload or type competitive programming note
 
 3. **Create a Virtual Environment**
 
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Set Environment Variables in PowerShell**
    $Env:AWS_DEFAULT_REGION="YOUR REGION"
@@ -34,7 +34,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 5. **Run Flask App**
 
-Run python app.py in the terminal
+   Run python app.py in the terminal
 
 ### Technologies Used
 
