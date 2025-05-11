@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Flask specific
+instance/
+*.env
+
+# Node modules (if using frontend build tools)
+node_modules/
+
+# MacOS specific
+.DS_Store
+
+.env
+venv/
