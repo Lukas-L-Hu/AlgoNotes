@@ -1,4 +1,4 @@
-# Competitive Programming Note Uploader and Topic Recommender
+# Competitive Programming & Technical Inteview Problem Note Uploader and Topic Recommender
 
 This web application allows users to upload or type competitive programming notes and receive topic recommendations and summaries using AWS Bedrock. It integrates with Amazon S3 for note storage and uses Flask as the backend.
 
